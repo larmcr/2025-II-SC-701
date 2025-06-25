@@ -7,3 +7,4 @@
 - **TP1**: Tarea Programada 1
 - **TP2**: Tarea Programada 2
 - **TP3**: Tarea Programada 3
+- **CP1**: Caso Práctico 1
