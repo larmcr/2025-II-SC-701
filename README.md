@@ -9,3 +9,4 @@
 - **TP3**: Tarea Programada 3
 - **TP4**: Tarea Programada 4
 - **CP1**: Caso Práctico 1
+- **CP2**: Caso Práctico 2
